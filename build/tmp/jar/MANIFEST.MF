@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Class-Path: file:/home/sam/.gradle/caches/modules-2/files-2.1/org.tens
+ orflow/tensorflow/1.2.1/8374ddf669b6f2f85d36debce387637d91470334/tens
+ orflow-1.2.1.jar file:/home/sam/.gradle/caches/modules-2/files-2.1/co
+ m.github.jai-imageio/jai-imageio-core/1.3.0/268feccd3a0fe32058ede66db
+ 41a21d9c7a9e535/jai-imageio-core-1.3.0.jar file:/home/sam/.gradle/cac
+ hes/modules-2/files-2.1/net.sourceforge.javacsv/javacsv/2.0/8092b1ba2
+ d4929f2ec27e58cd240502afdd6a9a7/javacsv-2.0.jar file:/home/sam/.gradl
+ e/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95
+ 076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar file:/home/sam/.gradle/
+ caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a
+ 6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar file:/home/
+ sam/.gradle/caches/modules-2/files-2.1/org.zeroturnaround/zt-exec/1.9
+ /a6c5747098b1ede9f4a6e9c36eaebb357a4430ed/zt-exec-1.9.jar file:/home/
+ sam/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.13/7fc
+ f30c25b8f4a9379b9dad0d3f487b25272c026/slf4j-api-1.7.13.jar file:/home
+ /sam/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.13
+ /8f0d8b5bf0ff295162360a0a5ebb9c945bd2b685/slf4j-simple-1.7.13.jar fil
+ e:/home/sam/.gradle/caches/modules-2/files-2.1/org.tensorflow/libtens
+ orflow/1.2.1/262519fda6b3d47e9a7e639d90a99ea46f31981c/libtensorflow-1
+ .2.1.jar file:/home/sam/.gradle/caches/modules-2/files-2.1/org.tensor
+ flow/libtensorflow_jni/1.2.1/992b1f2311c800c8ac51de9368099a050aac1598
+ /libtensorflow_jni-1.2.1.jar
+Main-Class: com.davis.tensorflow.HelloTF
+

@@ -1,0 +1,318 @@
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/drawings-and-Renders/2138423p.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/drawings-and-Renders/Su35-4.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/drawings-and-Renders/Barguzin-Image+ODNAKO.ORG+22Dec2014.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/drawings-and-Renders/Huanqiu9+20130129043500532.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/drawings-and-Renders/Huanqiu12+20130129043526837.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/naval/5781496021637059962.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/naval/5781496021637059984.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/naval/06329+Non-Document+NA.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/naval/5781496021637059974.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/10.Technology-and-Research-Achievements-Exhibition+14Dec14+FNA+mh.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/06339+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/13.Technology-and-Research-Achievements-Exhibition+14Dec14+FNA+mh.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/03244+Non-Document+NA.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/0+808f6+5efb189b+orig.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/17.Technology-and-Research-Achievements-Exhibition+14Dec14+FNA+mh.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/vlcsnap-2014-09-24-10h41m21s248.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/electronics-Computers-and-Machinery/Huanqiu23+20130129043521415.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05450+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/Ukraine+UAV+Screen-Shot-2014-11-24-at-9.53.05-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/02769+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/13910906004826404+PhotoL.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/04977+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/03612+Non-Document+NA.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/25146124.jpg  flags and banners
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/0+80929+e18c7b90+orig.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/04724+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05156+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05684+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05814+Non-Document+NA.jpg  flags and banners
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05746+Non-Document+NA.jpg  flags and banners
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/03011+Non-Document+NA.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/13910905192952822+PhotoL.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05166+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/13910906004832638+PhotoL.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05035+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/02596+Non-Document+NA.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/02527+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/File+1454+26831.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05759+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/01985+Non-Document+NA.jpg  flags and banners
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/16474709080+47acfbd041+b+haylingbilly+Flickr+20Feb2015.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/13910906000921435+PhotoL.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/06079+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05247+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/13910903155057552+PhotoL.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/02622+Non-Document+NA.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/13910905183712498+PhotoL.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/19ed2d74738041f1952f06c5f6d6ae37.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/people/05968+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02119+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Aero2014+PosterFull+fa.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2014-07-22-at-8.43.30-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/03814+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02155+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/159689372.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/03252+Non-Document+NA.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Herze9+20May13+PressTV.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/03086+Non-Document+NA.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/milhuanqiu+4of29+20140829103415790.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2014-07-09-at-12.50.41-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2014-05-27-at-11.07.48-AM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/CSK-parachute-assault-vehicles+10Nov2014+Photo+sina+com+cn.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/16661089952+352fcba9b3+b+haylingbilly+Flickr+20Feb2015.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02799+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Zolfiqar-91-Drill-Photo6+yjcphotos+mh.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/03816+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Zhuhai-Airshow-Russian+23-27+Milhuanqiu+20141114092343998.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/VM+T+Atlant+VitalyKuzmin++26Aug13+MAKS2013firstpix07-M.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2013-02-19-at-9.33.01-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02855+Non-Document+NA.jpg  naval
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2014-08-13-at-1.30.33-PM.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/ChinaUAVs++PakMilForum+dsjunshi+Nov14+17.jpg  flags and banners
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/20140709100114102.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/25052861+3.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02125+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2015-02-23-at-1.46.57-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02118+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2014-09-09-at-12.07.05-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/03770+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02584+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/SU-34+ITAR+TASS+20May14+3737380.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02308+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2014-07-08-at-12.58.30-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/02672+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/03819+Non-Document+NA.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/IMG+4170.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Tankers+blurri+7May14+MilitaryPhotosnet+3tb+1405071410592ue9512293.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2013-02-19-at-9.38.28-AM.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/aircraft-was-destroyed-in-the-air-near-the-village-AmvrosievkaUkraineInvestigation+15Jul14+555TJBoHsY8.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2013-09-26-at-2.59.43-PM.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Screen-Shot-2015-02-09-at-12.37.16-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/05648+Non-Document+NA.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/Ground+Master+GM+400+3D+air+defense+radar+Thales+Raytheon+France+French+defence+industry+military+technology+004.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/sy400-nose.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/IMG+4102.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/aircraft/4-2.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/06248+Non-Document+NA.jpg  camouflage and concelment
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/1268679412933.jpg  naval
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/SkyDragon50+milhunaqiu+20141108021327670.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/04630+Non-Document+NA.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/06076+Non-Document+NA.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/04993+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/02996+Non-Document+NA.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/03430+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/04129+Non-Document+NA.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/90859122.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/Ya-Zahra-7+accessed-30Jan13+irna.ir+mh.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/05494+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/03065+Non-Document+NA.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/02224+Non-Document+NA.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/Red-6-anti-aircraft-missile+10Nov2014+Photo+sina+com+cn.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/05586+Non-Document+NA.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/04428+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/03429+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/vehicles/02995+Non-Document+NA.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/23JUL14-theguardian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-12-30-at-12.07.06-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-12-30-at-12.33.01-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/05037+Non-Document+NA.jpg  explosions fire smoke dust
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/02666+Non-Document+NA.jpg  electronics computers and machinery
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/03062+Non-Document+NA.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-10-20-at-11.54.40-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/20140508043150891.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/05688+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/RLS+GM400-008-aerosalon+Pariz+2009+GS1000.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2013-12-27-at-9.00.21-AM.jpg  explosions fire smoke dust
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/vlcsnap-2014-09-23-11h49m13s187.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Jiangning-district-ceremony-with-poster-with-8511.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-12-15-at-1.19.34-PM.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/02005+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-07-23-at-8.58.03-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/03050+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/06404+Document+Russian.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-10-15-at-9.51.24-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/06444+Document+Russian.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/03103+Non-Document+NA.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-08-13-at-12.18.47-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2015-02-23-at-1.16.22-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2013-06-06-at-1.13.30-PM.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/4B.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/56992088.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-07-23-at-10.16.58-AM.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/29thRI+Acsd11Dec13+SwieeCom.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2015-01-05-at-12.38.42-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/vlcsnap-2014-09-25-08h31m41s195.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/04359+Non-Document+NA.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/AnotherAngle+Zhuhai+milhuanqiu+1-5+20141113095635234.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-09-29-at-8.59.55-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-10-15-at-8.47.37-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2012-12-12-at-2.43.40-PM.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/buildings-and-Landscapes/Screen-Shot-2014-07-09-at-12.51.01-PM.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/04439+Non-Document+NA.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/04386+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/19.Great-Prophet-8-Exercise-in-Kerman+24Feb13+fna+mh+photo-source.jpg  explosions fire smoke dust
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/05432+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/04848+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/17.Great-Prophet-8-Exercise-in-Kerman+24Feb13+fna+mh+photo-source.jpg  explosions fire smoke dust
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/up-Armored-Vehicle/04000+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-09-at-1.14.48-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-19-at-9.49.57-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-19-at-7.25.43-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-30-at-11.47.01-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/yak130+5.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-28-at-12.27.54-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-20-at-1.40.53-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/24930678+3.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/86862582.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/8258029.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2013-12-27-at-8.44.42-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/Screen-Shot-2014-05-30-at-12.53.06-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/airfield/map+big+22+08+13.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/fireams/Iranian-Shaher-Sniper-Rifle-Tested-During-the-Second-Phase-of-Military-Drill+26Dec14+mh.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/camouflage-and-Concelment/1.-+Great-Prophet-8+-Military-Drills+25Feb13+mehrnews.com+mh.jpg  explosions fire smoke dust
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/+++++++-+4.jpg  naval
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/19.IRGC-Unveils-New-Phased-Array-Radar+2Jun14+FNA+mh.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/14.IRGC-Unveils-New-Phased-Array-Radar+2Jun14+FNA+mh.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/Screen-Shot-2014-10-20-at-1.54.36-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/Satellite-GroundStations+24Jul12+TelesurtvNet.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/00122+Document+Farsi.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/Huanqiu21+20130129043531873.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/vlcsnap-2014-09-23-11h48m13s99.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/glonass-m2.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/Screen-Shot-2015-02-06-at-4.55.41-PM.jpg  explosions fire smoke dust
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/02706+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/+++++++-+.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/Detail-of-IRIADF-Kasta-2E-Radar-Mast-Truck+Iran-National-Army-Day+Apr2014.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/arrays-Radar-and-Satellites/00581+Document+Chinese.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/explosions-Fire-Smoke-Dust/05701+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/explosions-Fire-Smoke-Dust/Screen-Shot-2015-03-24-at-3.49.21-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/explosions-Fire-Smoke-Dust/01DEC14.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/explosions-Fire-Smoke-Dust/05168+Non-Document+NA.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02880+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/03455+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01712+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01673+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/FT-9-50-kg-precision-guided-bomb+10Nov2014+Photo+sina+com+cn.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01755+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/hamas-rocket-threat-infographic.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02889+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/Iranian-Talaash-Medium-Range-Air-Defence-System-Fires-Sayyad-2-Talash-struggle-high-altitude-air-defense-system-flying-targetsfighter-jets-bombers-14-960x583.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01688+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02675+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/Screen-Shot-2012-12-20-at-1.11.50-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/03322+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/Screen-Shot-2012-11-19-at-1.15.03-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02229+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02797+Non-Document+NA.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01740+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/P07A0072+10Nov2014+Photo+sina+com+cn.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/YJ-12-tested-on-H-6GWithFinFoldcan-be-fittedinside052DsVLSChineseMilitaryForum19Jan13.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01727+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02881+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/03204+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/GB-6-500-kg-aviation-weapon-Dispenser+10Nov2014+Photo+sina+com+cn.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/20140508090029895.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/03431+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/02361+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/Screen-Shot-2014-05-30-at-1.26.02-PM.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/37060059046584888544.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/3.Technology-and-Research-Achievements-Exhibition+14Dec14+FNA+mh.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/06304+Non-Document+NA.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/missile-and-Rockets/01730+Document+Russian.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/04226+Non-Document+NA.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/115618+62741G+03.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/22OCT14-accrareport.com.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-11-24-at-9.17.10-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/149220+Yaogan+13.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/25141672+12.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/173895+62733L+01.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/176839+631111+11.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/06413+Document+Russian.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/173883+62733E+18.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/174239+62760O+02.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/02737+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/01979+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/176901+63120I+06.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-12-15-at-11.50.47-AM.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-10-09-at-9.30.43-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/176867+63111J+03.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/10DEC13-VOJ.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/137209+Chines+02.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/5.Technology-and-Research-Achievements-Exhibition+14Dec14+FNA+mh.jpg  up armored vehicle
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/133812+68340H+06.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2013-06-20-at-12.34.50-PM.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Afghanistan+Ethnic+lg.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00631+Document+Chinese.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/174239+62760O+23.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-09-25-at-12.24.52-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/01701+Document+Russian.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-10-08-at-12.25.29-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2015-01-05-at-10.47.14-AM.jpg  airfield
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-12-01-at-11.48.26-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2015-01-05-at-12.31.12-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00682+Document+Chinese.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-09-29-at-8.14.04-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-10-08-at-12.54.37-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2015-02-23-at-1.53.10-PM.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-09-16-at-12.10.16-PM.jpg  electronics computers and machinery
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/176867+63111J+04.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/148242+Long-M+06.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/01963+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-12-15-at-9.18.13-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/148004+Iran-J+02-caption.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/01665+Document+Russian.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/01729+Document+Russian.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-08-20-at-12.50.03-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00670+Document+Chinese.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-09-16-at-12.06.55-PM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00692+Document+Chinese.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-12-01-at-12.11.25-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/IMG+4135.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00562+Document+Chinese.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/03021+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00620+Document+Chinese.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00580+Document+Chinese.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/173903+62733P+02.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-08-13-at-12.56.17-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/14JAN14.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-09-29-at-8.17.48-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/107269+62930J+05.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/173631+62724S+10.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/03099+Non-Document+NA.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/15JUN14tolonews.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2014-07-07-at-11.57.28-AM.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2015-01-20-at-10.01.55-AM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/114683+104301+01.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/173883+62733E+13.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00697+Document+Chinese.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/Screen-Shot-2015-01-12-at-1.04.04-PM.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/115494+62731N+02.jpg  vehicles
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/148638+Satell+05.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/117126+63080E+01.jpg  electronics computers and machinery
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/02369+Non-Document+NA.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/00694+Document+Chinese.jpg  arrays radar and satellites
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/01684+Document+Russian.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/14MAR15-pajhwok.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/146270+Applic+30.jpg  maps and satellite views
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/149220+Yaogan+19.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/18SEP14-tribune.com.ng.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/149220+Yaogan+10.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/03589+Non-Document+NA.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/text-Articles-Screenshots-Misc/106949+127201+01.jpg  drawings and renders
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/medals/TAMGHA-I-DIFA-S.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/03173+Non-Document+NA.jpg  people
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2013-02-04-at-9.47.31-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2015-01-12-at-1.58.14-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2012-11-26-at-12.59.04-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2015-02-20-at-2.34.37-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2015-03-25-at-9.21.27-AM.jpg  missile and rockets
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2014-09-23-at-2.08.15-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2015-01-12-at-1.58.53-PM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/f201102101720543945388113.jpg  aircraft
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/2013-03-19-Map3.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/p28+2+20140927.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/BKK+airport.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Khomeini-Space-Center+under-construction-Sept12+accessed-30Jan13+b14643.de+mh.jpg  buildings and landscapes
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/Screen-Shot-2014-01-13-at-8.19.44-AM.jpg  text articles screenshots misc
+/mnt/linux-storage/nasicModels/nasic-tf/data-sets/nasic-data/maps-and-Satellite-Views/TheTelegraph+NKMissileV2.jpg  arrays radar and satellites
